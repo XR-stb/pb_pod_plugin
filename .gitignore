@@ -44,3 +44,18 @@ sample
 # compiler temp file
 build/
 lib/
+
+# third_party
+googletest
+
+# build
+.cache
+
+# cmake
+CMakeFiles
+Makefile
+*.cmake
+CMakeCache.txt
+
+# clang
+compile_commands.json
